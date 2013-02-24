@@ -7,3 +7,7 @@ Copyright (C) 2011 The CyanogenMod Project
  You may obtain a copy of the License at
 
       http://www.apache.org/licenses/LICENSE-2.0
+
+Notes on inline Kernel building;
+CM7 kernel code - https://github.com/CyanogenMod/htc-kernel-msm7x30 (Thanks to the CyanogenMod Team)
+KangBang Source - https://github.com/KangBangKreations/KangBanged-7x30 (Thanks to synergy for KangBang kernel)
